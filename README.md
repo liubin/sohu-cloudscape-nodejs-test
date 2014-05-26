@@ -1,7 +1,7 @@
 sohu-cloudscape-nodejs-test
 ===========================
 
-这是一个简单的测试搜狐PaaS平台云景的测试项目
+这是一个简单的测试搜狐PaaS平台云景( http://cloudscape.sohu.com/ )的测试项目
 
 ##siege测试结果：
 
