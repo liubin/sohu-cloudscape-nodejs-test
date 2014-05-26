@@ -1,0 +1,3 @@
+appid: XXXXXX
+start: $NODEJS $USER_DIR/app/server.js
+web_health: false
